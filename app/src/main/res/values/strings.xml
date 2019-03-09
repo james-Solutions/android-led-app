@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LED</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="ip_address">IP: 127.0.0.1</string>
+    <string name="connect_error">Could not connect</string>
+    <string name="connect_successful">Connected successfully</string>
+    <string name="str_red_brightness">Red: </string>
+    <string name="str_blue_brightness">Blue: </string>
+    <string name="str_green_brightness">Green: </string>
+    <string name="connect">Connect</string>
+    <string name="cancel">Cancel</string>
+    <string name="user_name">Username</string>
+    <string name="led_nick">LED Nickname</string>
+    <string name="led_list_nick">Nick</string>
+</resources>
